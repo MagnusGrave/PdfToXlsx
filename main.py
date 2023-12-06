@@ -1,6 +1,5 @@
 import streamlit as st
 import camelot.io as camelot
-import streamlit.runtime
 from tabulate import tabulate
 import pandas as pd
 from PyPDF2 import PdfFileReader
